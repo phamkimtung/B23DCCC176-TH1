@@ -1,0 +1,22 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  background-color: #008cba;
+  color: white;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #005f75;
+}
+
+input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
